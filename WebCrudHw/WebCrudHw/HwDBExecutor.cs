@@ -64,7 +64,7 @@ namespace WebCrudHw
             string connectionString =
                 "Data Source=localhost\\SQLExpress;Initial Catalog=CSharpLessionHWwk2; Integrated Security=true";
 
-            //SQL語法 新增資料
+            //SQL語法 新增資料至Student Table
             string queryString =
                 $@" INSERT INTO Student
                        (Student_ID , Name, Birthday, Address, Email , CellPhone, Experience, Education , School)

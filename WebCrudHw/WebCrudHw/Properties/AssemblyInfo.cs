@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("WebCrudHw")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("UBAY 宥倍實業股份有限公司")]
 [assembly: AssemblyProduct("WebCrudHw")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCopyright("Copyright ©  2021 KeepCoding歐紀安")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
